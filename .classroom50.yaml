@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "itla-pw-c3-2026"
+assignment: "introduccion-a-git"
+owner:
+  username: "leowandel"
+  id: 334382732
+  accepted_at: "2026-09-27T03:28:31Z"
+source:
+  owner: "TDHclassroom"
+  owner_id: 219900396
+  repo: "git-basic"
+  branch: "main"
